@@ -1,2 +1,1 @@
-# Veritybio.github.io
-under construction
+# Veritybio under construction
