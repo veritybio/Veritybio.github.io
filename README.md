@@ -1,4 +1,3 @@
 Verity Bio
-@Contact contact@verity.bio
-+
+contact@verity.bio
 
